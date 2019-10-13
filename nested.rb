@@ -58,6 +58,7 @@ def dennis_ritchies_language
  		}
   if programmer_hash [:dennis_ritchie][:languages] 
     puts "C"
+  end
   
 end
 
